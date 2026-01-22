@@ -10,7 +10,7 @@
 
 ### I'm using Scrimba to learn. 
 
-Love the experience, the learning interface is an interactive screenscast blending video tutorial and exercise pad into one. It's gold!! 
+Love the experience. The learning interface is an interactive screenscast, blending video tutorial and exercise pad into one. It's fun and easy to use!! 
 
 [Check it out here and save 20% if you sign up!](https://scrimba.com/?via=u437e9c2)
 
