@@ -8,9 +8,11 @@
 
 - 🚀 **Fun fact:** I build campervans in my spare time
 
-### Connect with me
-[LinkedIn](https://scrimba.com) • [Scrimba](https://scrimba.com/scrimbassadors) • [Portfolio](https://scrimba.com)
+### I'm using Scrimba to learn. 
 
-[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)]([https://scrimba.com/?via=u437e9c2])
+Love the experience, the learning interface is an interactive screenscast blending video tutorial and exercise pad into one. It's gold!! 
+
+[Check it out here and save 20% if you sign up!](https://scrimba.com/?via=u437e9c2)
+
 
 
